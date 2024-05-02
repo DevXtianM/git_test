@@ -1,0 +1,5 @@
+some interesting notes
+
+This is my special note for today....
+git is the best
+
